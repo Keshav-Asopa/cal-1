@@ -1,6 +1,7 @@
 from tkinter import *
 from tkinter import ttk
 
+#CALCULATOR CLASS
 class Calculator:
 
     calc_value = 0.0
